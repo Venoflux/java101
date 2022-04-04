@@ -14,5 +14,6 @@ public class TaxiMeter {
         price = (price > 20)? price : min;
 
         System.out.println("Amount to pay: " + price);
+
     }
 }
